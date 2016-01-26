@@ -1,0 +1,28 @@
+name: TantheMan
+favicon: null
+layout_spectrum: 0.9714789264835417
+typography_spectrum: 0.7422559345141053
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.37835147930309176
+  lightness: 0.6443880621809512
+  saturation: 0.8367898480501026
+  rhythmicContrast: 0.6009144682902843
+purpose: []
