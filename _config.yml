@@ -1,6 +1,6 @@
 name: TantheMan
 favicon: null
-layout_spectrum: 0.25049
+layout_spectrum: 0
 typography_spectrum: 0.0998
 title: Tan the Man
 cta:
@@ -22,7 +22,7 @@ color:
     - '#b1b1b1'
     - '#d6d6d6'
     - '#666666'
-  brandStrength: 0.1875
+  brandStrength: 0
   lightness: 0.5625
   saturation: 1
   rhythmicContrast: 0
